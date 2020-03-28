@@ -16,7 +16,7 @@
 
 [C-LAB](https://www.facebook.com/TCCLAB.ORG) 秉持開放文化自由分享精神，本次工作坊的文字、影像、設計、程式碼採用「公眾領域貢獻宣告」（CC0）釋出供公眾自由使用。
 
-* case-designs -- 存放不同外形盒設計的點子 
+* case-design -- 存放不同外形盒設計的點子 
 * makecode -- 存放 micro:bit 的程式以及說明文件
 
 ![](images/cc-zero.png)
