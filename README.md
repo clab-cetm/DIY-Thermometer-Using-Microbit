@@ -1,6 +1,6 @@
 # 額溫盒計畫
 
-Language: [[English](README_en.md)][Español](README_sp.md)
+Language: [[English](README_en.md)][[Español](README_sp.md)]
 
 **防疫二部曲之一：自製口袋型額溫槍工作坊 DIY Micro:bit Infrared Thermometer Workshop**
 
