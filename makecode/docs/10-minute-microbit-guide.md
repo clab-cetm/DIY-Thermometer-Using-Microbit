@@ -26,11 +26,11 @@
 2. micro-usb 傳輸線
 3. 可以上網的電腦
 
-![](images/mb-01.jpg)
+![](../images/mb-01.jpg)
 
-![](images/usb-02.jpg)
+![](../images/usb-02.jpg)
 
-![](images/laptop.jpg)
+![](../images/laptop.jpg)
 
 
 ## microbit 的開發流程
@@ -67,7 +67,7 @@
 * 存檔 　- 存成 hex 檔案 (內容包含程式碼資訊)
 * 教學區 - 內建的教學資源
 
-![](images/makecode-01.png)
+![](../images/makecode-01.png)
 
 
 ## 下載你的程式到 microbit
@@ -79,29 +79,29 @@
 	* 傳輸過程中，電路板背面的橙色電源LED會開始閃爍。一旦停止閃爍，傳輸就完成了
 5. 就這樣，現在可以觀察 microbit 運作的樣子是否跟你想的一樣
 
-![](images/program.gif)
+![](../images/program.gif)
 
 
 ## 關於擴展板
 
 仔細看 micro:bit 的金手指區可以發現：除了 P0, P1, P2, 3V, GND 這幾個腳位面積比較大，比較方便直接使用鱷魚夾接線以外，其餘的腳位寬度都太小，不方便使用。
 
-![](images/alligator-clips.jpg)
+![](../images/alligator-clips.jpg)
 
 因此，通常製作專案的時候，都會另外採買稱為 I/O 擴展板的設備。只要將 micro:bit 插入擴展板的插槽內，就可以直接使用擴展板引出的腳位，方便做接線控制使用。
 
-![](images/expansion-01.jpg)
+![](../images/expansion-01.jpg)
 
 
 ## 關於供電
 
 你絕對不想每次使用 microbit 的時候都拉著 usb 線和電腦。可以使用外接電池盒，使用兩個 AAA 電池供電。
 
-![](images/battery.jpg)
+![](../images/battery.jpg)
 
 插槽在背面右上角。
 
-![](images/mb-02.jpg)
+![](../images/mb-02.jpg)
 
 
 ## 如何分享你的作品
