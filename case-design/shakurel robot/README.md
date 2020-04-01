@@ -1,4 +1,5 @@
 ## Shakurel Robot Paper Case
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_155836.jpg?raw=true)
 ### 前言
 這個版本的外盒可由一張A4紙製作完成，原理和一般常見的可拆開攤平的紙箱、紙盒相同，本身不需膠帶黏著，是一體成型的。
 ### 準備材料 
