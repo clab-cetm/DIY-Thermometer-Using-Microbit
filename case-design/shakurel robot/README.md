@@ -47,7 +47,6 @@
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153955.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154004.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154116.jpg?raw=true)
-![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154122.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154130.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154200.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154215.jpg?raw=true)
