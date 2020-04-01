@@ -43,7 +43,7 @@
 分別用紙膠帶將線路固定，並預先貼上固定sensor及電池盒用的紙膠帶。
 [image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_152644.jpg?raw=true)
 
-
+#### 7. 將中央那條大弧線往外凹折。
 [image]()
 [image]()
 [image]()
