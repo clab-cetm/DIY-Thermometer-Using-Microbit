@@ -55,4 +55,4 @@
 #### 8. 將蓋子扣上即完成。
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154317.jpg?raw=true)
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154325.jpg?raw=true)
-![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154537.jpg?raw=true)
