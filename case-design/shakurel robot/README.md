@@ -37,13 +37,23 @@
 
 #### 5. 將中央那條大弧線往外凹折。
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153701.jpg?raw=true)
-[image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153742.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153742.jpg?raw=true)
 
 #### 6. 將以下三個硬體按上一階段的步驟串接好：灌好程式的Micro:bit、裝好電池的電池盒、感溫sensor。並按照下圖的方式，
 分別用紙膠帶將線路固定，並預先貼上固定sensor及電池盒用的紙膠帶。
-[image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_152644.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_152644.jpg?raw=true)
 
-#### 7. 將中央那條大弧線往外凹折。
-[image]()
-[image]()
-[image]()
+#### 7. 如圖所示，先放入感溫sensor並以紙膠帶固定，再放入電池盒(背面以紙膠帶黏貼固定)，最後將Micro:bit扣上正面面板(不需特別黏貼紙膠帶，若要額外加強也可以貼一點)。
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153955.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154004.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154116.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154122.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154130.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154200.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154215.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154256.jpg?raw=true)
+
+#### 8. 將蓋子扣上即完成。
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154317.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_154325.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-
