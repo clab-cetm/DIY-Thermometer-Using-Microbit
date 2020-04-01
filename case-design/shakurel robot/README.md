@@ -16,5 +16,9 @@
 ```
 * 工具：直尺、美工刀、紙膠帶
 ### 步驟說明
+#### 1. 在選好的紙張上，根據版型PDF檔切出紙盒的版型。需注意檔案中虛線的部分是摺線、不要切到，實線的部分則需要切斷。
+```本說明使用1mm白色PP紙板做示範```
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_150741.jpg?raw=true)
+
 
 
