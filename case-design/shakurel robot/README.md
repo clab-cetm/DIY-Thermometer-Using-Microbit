@@ -16,9 +16,16 @@
 ```
 * 工具：直尺、美工刀、紙膠帶
 ### 步驟說明
-#### 1. 在選好的紙張上，根據版型PDF檔切出紙盒的版型。需注意檔案中虛線的部分是摺線、不要切到，實線的部分則需要切斷。
-```本說明使用1mm白色PP紙板做示範```
+#### 1. 在選好的紙張上，根據版型PDF檔切出紙盒的版型。沿著實線的部分將版型在你選用的紙張上切割出來。
+```本說明使用1mm白色PP紙板做示範。需注意檔案中虛線的部分是摺線、不要切到，實線的部分則需要切斷。```
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_150741.jpg?raw=true)
+
+#### 2. 為了讓虛線的部分等下更好摺、且摺得更平整，這個步驟是用美工刀刀背輕輕劃過虛線的部分。
+```圖中是使用牛骨刀，但也可用美工刀刀背取代，只要注意不要太大力將虛線部分割破```
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_151300.jpg?raw=true)
+
+#### 3. 沿著所有虛線往內摺，請注意此時先不要摺中央那條大弧線。
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_151905.jpg?raw=true)
 
 
 
