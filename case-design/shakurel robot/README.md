@@ -20,12 +20,20 @@
 ```本說明使用1mm白色PP紙板做示範。需注意檔案中虛線的部分是摺線、不要切到，實線的部分則需要切斷。```
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_150741.jpg?raw=true)
 
-#### 2. 為了讓虛線的部分等下更好摺、且摺得更平整，這個步驟是用美工刀刀背輕輕劃過虛線的部分。
+#### 2. 為了讓虛線的部分等下更好折、且折得更平整，這個步驟是用美工刀刀背輕輕劃過虛線的部分。
 ```圖中是使用牛骨刀，但也可用美工刀刀背取代，只要注意不要太大力將虛線部分割破```
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_151300.jpg?raw=true)
 
-#### 3. 沿著所有虛線往內摺，請注意此時先不要摺中央那條大弧線。
+#### 3. 沿著所有虛線往內折，請注意此時先不要摺中央那條大弧線。
 ![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_151905.jpg?raw=true)
 
+#### 4. 如圖所示，將背板兩側的側翼往內折，再將上方的側翼往下折，卡楯穿過背板上的長方形洞口固定。
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153425.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153500.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153517.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153538.jpg?raw=true)
+![image](https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit/blob/master/case-design/shakurel%20robot/photos/IMG_20200331_153559.jpg?raw=true)
+![image]()
+![image]()
 
 
