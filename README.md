@@ -26,6 +26,7 @@ Language: [[English](README_en.md)][[Español](README_sp.md)]
 
 
 * case-design -- 存放了不同外形盒設計的點子，每個資料夾都是一種設計點子
+* docs -- 工作坊投影片、組裝說明書
 * makecode -- micro:bit 的程式以及說明文件
 * video -- 活動相關影片
 * visual-design -- 視覺設計
