@@ -4,8 +4,9 @@ Language: [[English](README_en.md)][[Español](README_sp.md)]
 
 **自製Micro:bit額溫槍工作坊 DIY Micro:bit Infrared Thermometer Workshop**
 
-## 計畫說明
+![](images/visual.jpg)
 
+## 計畫說明
 
 [空總臺灣當代文化實驗場 C-LAB](https://www.facebook.com/TCCLAB.ORG) 的科技媒體實驗群，著重於實驗創新與社會鏈結，因此將成立各類項科技媒體實驗室，以跨域、共創、協作方式，打造文化與科技的實驗平台。
 
