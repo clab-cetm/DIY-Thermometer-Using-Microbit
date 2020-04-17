@@ -13,7 +13,7 @@
 
 ## 檔案說明
 
-software 目錄內有幾個 .hex 檔。它就是 micro:bit 的軟體，你可以透過 usb 傳輸線將這些 .hex 檔傳入 micro:bit 中，即完成軟體更新工作。所有的軟體可以隨時替換，你可以隨時根據你的需求選擇更新哪一種軟體。詳細說明請看 [software 目錄內的 README.md](software/README.md)
+software 目錄內有幾個 .hex 檔。它就是 micro:bit 的軟體，你可以透過 usb 傳輸線將這些 .hex 檔傳入 micro:bit 中，即完成軟體更新工作。所有的軟體可以隨時替換，你可以隨時根據你的需求選擇更新哪一種軟體。詳細說明請看 [software 目錄內的 README.md](software/)
 
 
 ## 如何更新軟體
