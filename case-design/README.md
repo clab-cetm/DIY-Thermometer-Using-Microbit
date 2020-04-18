@@ -4,4 +4,4 @@
 
 * lego -- 配合樂高保護殼所做的示範
 * multicore (設計師: 李家祥)
-* shakurel robot (設計師: 黃瑋瑋)
+* shakurel robot (設計師: 黃瑋瑋) -- 這次工作坊所使用的模板
