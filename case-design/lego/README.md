@@ -8,3 +8,9 @@
 [MI:pro Protector Case for micro:bit](https://www.sparkfun.com/products/14680)
 
 ![](14680-MI-pro_Protector_Case-02.jpg)
+
+參考版本
+
+![](microbit-lego2.jpg)
+
+![](microbit-lego3.jpg)
