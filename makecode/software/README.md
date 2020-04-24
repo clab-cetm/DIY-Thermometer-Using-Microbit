@@ -1,4 +1,4 @@
-Language: [中文](#檔案說明)、[English](#FileDescription)
+Language: [中文](#檔案說明)、[English](#file-description)
 
 ---
 
