@@ -40,7 +40,7 @@ Language: [中文](#檔案說明)、[English](#file-item-description)
 * microbit-mlx90614-nocal_v2_en.hex -- (English Version)
 * microbit-mlx90614-nocal_v2.hex -- (Chinese Version)
 
-The final version is what we use in workshop. This version will continue to display the temperature information after measurement and it will not leave the display mode until presses the B button on the right. The behavior is design for the device which sensor and display are not on the same side (because you may have to turn over to see temperature information).
+The final version is what we use in workshop. This version will continue to display the temperature value after measurement and it will not leave the display mode until presses the B button on the right. The behavior is design for the device which sensor and display are not on the same side (because you may have to turn over to see temperature information).
 
 
 ## Quick test version
