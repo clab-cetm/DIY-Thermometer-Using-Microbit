@@ -1,4 +1,4 @@
-Language: [中文](#檔案說明)、[English](#file-description)
+Language: [中文](#檔案說明)、[English](#file-item-description)
 
 ---
 
@@ -33,7 +33,7 @@ Language: [中文](#檔案說明)、[English](#file-description)
 
 ---
 
-# File Description
+# File item description
 
 ## Forehead thermometer final version
 
