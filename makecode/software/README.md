@@ -40,24 +40,24 @@ Language: [中文](#檔案說明)、[English](#file-item-description)
 * microbit-mlx90614-nocal_v2_en.hex -- (English Version)
 * microbit-mlx90614-nocal_v2.hex -- (Chinese Version)
 
-The final version is what we use in workshop. This version will continue to display the temperature value after measurement and it will not leave the display mode until presses the B button on the right. The behavior is design for the device which sensor and display are not on the same side (because you may have to turn over to see temperature information).
+The final version is what we used in the workshop. This version will continue to display the temperature information after measurement, and it will not leave the display mode until the user presses the B button on the right. The behavior is designed for the device which sensor and display are not on the same side (because the user may have to turn over to see temperature information).
 
 
 ## Quick test version
 
-* microbit-mlx90614_test.hex -- quick test module is working properly
+* microbit-mlx90614_test.hex -- quick test to see if the module is working properly
 
-This is the most simple temperature detection program. After power on, it will read temperature and display it every second. This program can help you quickly test whether the temperature sensing module is working properly.
+This is the simplest temperature detection program. After power is on, it will read temperature and display it every second. This program can help you quickly test whether the temperature sensing module is working properly or not.
 
 
 ## Other experimental/test version
 
 * microbit-mlx90614-cal.hex -- use buttons to do calibration (experimental version)
 
-Use buttons to do temperature correction during the runtime. Press the A key and B key at the same time to enter the calibration mode. In the calibration mode, press the A or B key to adjust the temperature to increase or decrease. Press the A key and the B key again to exit the calibration mode.
+Use buttons to do temperature correction during the runtime. Press the A key and B key at the same time to enter the calibration mode. In the calibration mode, press the A or B key to increase or decrease the temperature. Press the A key and the B key at the same time again to exit the calibration mode.
 
-Please note that microbit has no storage device to store your calibration values. You need to recalibrate each time when device power on.
+Please note that microbit has no storage device to store your calibration values. You need to recalibrate each time when device power is on.
 
-* microbit-mlx90614-nocal_v1.hex -- The difference with v2 is that after pressing the A key to detect, the temperature only display once.
+* microbit-mlx90614-nocal_v1.hex -- The difference between v1 and v2 is that, in v1, after pressing the A key to detect, the temperature only displays once.
 
-This version is similar to the v2 version which we used in the workshop. The main difference is that v1 will only display the temperature once after measurement. The behavior is design for the device which sensor and display are in the same side.
+This version is similar to the v2 version which we used in the workshop. The main difference is that v1 only displays the temperature once after measurement. The behavior is designed for the device which sensor and display are on the same side.
