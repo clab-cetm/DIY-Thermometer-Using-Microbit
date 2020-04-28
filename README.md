@@ -53,39 +53,23 @@ Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作
 
 ## 團隊名單
 
-主辦單位：空總臺灣當代文化實驗場C-LAB 科技媒體實驗平台
-
-概念統籌：蔡宏賢 
-
-生物講師：曹存慧 
-
-電子工程講師：蔡奇宏、林彥璋 
-
-新媒體藝術講師：謝佑承 
-
-程式設計：林彥璋 
-
-硬體設計：蔡奇宏、林彥璋 
-
-造型設計：李家祥、黃瑋瑋 
-
-企劃執行：陳品伊、蔣孟涵、謝澤旻 
-
-行銷推廣：劉郁青、黃怡翔、洪凱祥 
-
-主視覺設計：邱璽民
-
-攝影執行：桑杉學、周肥、吳佩芩、黃柏超 
-
-直播執行：陳韋均、詹佳儒 
-
-授權顧問：莊庭瑞 
-
-平面設計：崔壯維
-
-詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw  
-
-公關媒體聯繫請洽 行銷推廣組 黃怡翔 yiseanh@clab.org.tw
+* 主辦單位：空總臺灣當代文化實驗場C-LAB 科技媒體實驗平台
+* 概念統籌：蔡宏賢
+* 生物講師：曹存慧
+* 電子工程講師：蔡奇宏、林彥璋
+* 新媒體藝術講師：謝佑承
+* 程式設計：林彥璋
+* 硬體設計：蔡奇宏、林彥璋
+* 造型設計：李家祥、黃瑋瑋
+* 企劃執行：陳品伊、蔣孟涵、謝澤旻
+* 行銷推廣：劉郁青、黃怡翔、洪凱祥
+* 主視覺設計：邱璽民
+* 攝影執行：桑杉學、周肥、吳佩芩、黃柏超
+* 直播執行：陳韋均、詹佳儒
+* 授權顧問：莊庭瑞
+* 平面設計：崔壯維
+* 詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw
+* 公關媒體聯繫請洽 行銷推廣組 黃怡翔 yiseanh@clab.org.tw
 
 空總臺灣當代文化實驗場 C-LAB [www.clab.org.tw](https://clab.org.tw/)
 
@@ -123,38 +107,22 @@ Coming from a background in information, TSAI Chi-Hung works with new media art 
 
 ## Creative Team
 
-Presenter: Taiwan Contemporary Culture Lab (C-LAB) – Technology Media Experimental Platform
-
-Concept Director: Escher TSAI
-
-Biology Lecturer: Theresa Tsun-Hui TSAO
-
-Electrical Engineering Lecturer: Andrew LIN, TSAI Chi-Hung
-
-New Media Art Lecturer: HSIEH Yu-Cheng
-
-Program Designer: Andrew LIN
-
-Hardware Designer: Andrew LIN, TSAI Chi-Hung
-
-Style Designr: HUANG Weiwei, Jason LEE
-
-Executive Producer: CHEN Ping-Yi, Monique CHIANG, HSIEH Che-Min
-
-Marketing & Promotion: LIU Yuching, Sean HUANG, Jimmy HUNG
-
-Visual Designer: CHIU Hsi-Ming
-
-Manual Designer: Awai Tswei
-
-Photographer: Vincent SANG, HUANG Po-Chao
-
-Live-Stream: Oris CHEN, Ed 
-
-Licensing Consultant: CHUANG Tyng-Ruey
-
-For further information please contact:
-HSIEH Che-Min, chemin@clab.org.tw 
-Sean HUANG, yiseanh@clab.org.tw 
-
-Taiwan Contemporary Culture Lab (C-LAB) [www.clab.org.tw](https://clab.org.tw/)
+* Presenter: Taiwan Contemporary Culture Lab (C-LAB) – Technology Media Experimental Platform
+* Concept Director: Escher TSAI
+* Biology Lecturer: Theresa Tsun-Hui TSAO
+* Electrical Engineering Lecturer: Andrew LIN, TSAI Chi-Hung
+* New Media Art Lecturer: HSIEH Yu-Cheng
+* Program Designer: Andrew LIN
+* Hardware Designer: Andrew LIN, TSAI Chi-Hung
+* Style Designr: HUANG Weiwei, Jason LEE
+* Executive Producer: CHEN Ping-Yi, Monique CHIANG, HSIEH Che-Min
+* Marketing & Promotion: LIU Yuching, Sean HUANG, Jimmy HUNG
+* Visual Designer: CHIU Hsi-Ming
+* Manual Designer: Awai Tswei
+* Photographer: Vincent SANG, HUANG Po-Chao
+* Live-Stream: Oris CHEN, Ed 
+* Licensing Consultant: CHUANG Tyng-Ruey
+* For further information please contact:
+	* HSIEH Che-Min, chemin@clab.org.tw 
+	* Sean HUANG, yiseanh@clab.org.tw 
+* Taiwan Contemporary Culture Lab (C-LAB) [www.clab.org.tw](https://clab.org.tw/)
