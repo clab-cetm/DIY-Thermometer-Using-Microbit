@@ -81,7 +81,7 @@ Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#this-diy-mi
 空總臺灣當代文化實驗場 C-LAB [www.clab.org.tw](https://clab.org.tw/)
 
 
-# This DIY Micro:bit Infrared Thermometer Workshop
+# DIY Micro:bit Infrared Thermometer Workshop
 
 ### *DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.*
 
