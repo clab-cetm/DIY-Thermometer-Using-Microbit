@@ -1,4 +1,4 @@
-Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#this-diy-microbit-infrared-thermometer-workshop)
+Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#diy-microbit-infrared-thermometer-workshop)
 
 # 自製 Micro:bit 額溫槍工作坊
 
