@@ -1,6 +1,8 @@
-Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作坊)、[English](#this-diy-microbit-infrared-thermometer-workshop)
+Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#this-diy-microbit-infrared-thermometer-workshop)
 
-# 防疫時尚，救國也要有型！自製 Micro:bit 額溫槍工作坊
+# 自製 Micro:bit 額溫槍工作坊
+
+### *防疫時尚，救國也要有型！*
 
 ![](images/visual.jpg)
 
@@ -80,7 +82,7 @@ Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作
 
 # This DIY Micro:bit Infrared Thermometer Workshop
 
-*DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.*
+### *DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.*
 
 
 ## Project Description
