@@ -35,54 +35,74 @@ Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作
 ## 講師簡介
 
 **林彥璋 Andrew Lin**
+
 網通廠軟體工程師。於2014年接觸開源硬體、2015年認識新媒體藝術後，一直當假日創客至今。  
 
 **曹存慧 Theresa Tsun-Hui TSAO**
+
 創作團體遠房親戚實驗室成員，群島社群成員，生物工程師。自澳洲昆士蘭理工大學熱帶作物研究群組（現納入未來環境研究所）博士畢業後，於2009年至2018年間，先後在中研院農生中心，台大資工所與生化所、臺大醫院精神醫學部與基因醫學部等處，從事基因工程、分子生物學、次世代定序與轉錄體學的科學研究。近年藝術作品「憂生學」、「有我在™」、「血電廠」、「療刺」、「愛@窒息」中，使用生物科技、（類）醫療行為、活體材料等，討論科學局限以及感知的可曲變性。  
 
 **蔡奇宏 TSAI Chi-Hung**
+
 從資訊背景踏入新媒體藝術，創作主要致力於將類比與數位以多種方式進行混合，近年來與不同領域的伙伴持續玩耍，擅長整合各種技術形式來探索不同媒材之間的可能性。  
 
 **謝佑承 Yu-Cheng HSIEH**
+
 1992年出生於台灣，目前生活與工作於台北。創作關注媒體時代中影像、機器和實體空間之間的認知經驗，藉由製造臨場的觀察誤區，探索人與世界的觀看意識與存在關係。作品曾獲第17屆台新藝術獎第四季季提名、2018「當代藝術賞」首獎、「台南新藝獎」、2016「全國美術展」新媒體藝術類銀獎、「世安美學獎」造型藝術類、2016-2017二度入選歐洲藝術學院聯盟NEUNOW藝術季、展會與私人收藏。戶外製作項目見於2019-2020「月津港燈節」、2018「關渡光藝術節」與2017年「白晝之夜」等。
 
 
 ## 團隊名單
 
 主辦單位：空總臺灣當代文化實驗場C-LAB 科技媒體實驗平台
+
 概念統籌：蔡宏賢 
+
 生物講師：曹存慧 
+
 電子工程講師：蔡奇宏、林彥璋 
+
 新媒體藝術講師：謝佑承 
+
 程式設計：林彥璋 
+
 硬體設計：蔡奇宏、林彥璋 
+
 造型設計：李家祥、黃瑋瑋 
+
 企劃執行：陳品伊、蔣孟涵、謝澤旻 
+
 行銷推廣：劉郁青、黃怡翔、洪凱祥 
+
 主視覺設計：邱璽民
+
 攝影執行：桑杉學、周肥、吳佩芩、黃柏超 
+
 直播執行：陳韋均、詹佳儒 
+
 授權顧問：莊庭瑞 
+
 平面設計：崔壯維
 
 詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw  
+
 公關媒體聯繫請洽 行銷推廣組 黃怡翔 yiseanh@clab.org.tw
 
 空總臺灣當代文化實驗場 C-LAB [www.clab.org.tw](https://clab.org.tw/)
 
----
 
 # This DIY Micro:bit Infrared Thermometer Workshop
 
-**DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.**
+*DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.*
+
 
 ## Project Description
 
-C-LAB’s Technology Media Experimental Platform focuses on experimental innovation and social connection. With an interdisciplinary, co-creative, and collaborative approach, C-LAB is constructed into a cultural and technological experimental platform containing a broad range of media and technology laboratories.
+[C-LAB’s Technology Media Experimental Platform](https://clab.org.tw/en/) focuses on experimental innovation and social connection. With an interdisciplinary, co-creative, and collaborative approach, C-LAB is constructed into a cultural and technological experimental platform containing a broad range of media and technology laboratories.
 
-The escalating COVID-19 pandemic panics people around the globe. To fight against the pandemic with a maker’s spirit, C-LAB is organizing a series of workshops for DIY Micro:bit Infrared Thermometer, DIY UV Light Box, etc. Experts from biomedicine, electrical engineering, Tech Art, and architecture collectively initiate and contribute to the workshops, share and practice their knowledge, and empower each other to act through art to handle this crisis. Everyone is welcome to join and take part in these workshops which bring together Tech Art with chic design and take tangible action in this global fight. Participants of the workshops will learn the principles and the methods of UV light disinfection, and be equipped with the ability to make their own Micro:bit, a pocket-sized infrared forehead thermometer. 
+The escalating COVID-19 pandemic panics people around the globe. To fight against the pandemic with a maker’s spirit, C-LAB is organizing a series of workshops for DIY Micro:bit Infrared Thermometer, DIY UV Light Box, etc. Experts from biomedicine, electrical engineering, Tech Art, and architecture collectively initiate and contribute to the workshops, share and practice their knowledge, and empower each other to act through art to handle this crisis. Everyone is welcome to join and take part in these workshops which bring together Tech Art with chic design and take tangible action in this global fight. Participants of the workshops will learn the principles and the methods of UV light disinfection, and be equipped with the ability to make their own Micro:bit, a pocket-sized infrared forehead thermometer.
 
-This DIY Micro:bit Infrared Thermometer Workshop will be jointly taught by engineer Andrew LIN, new media artist TSAI Chi-Hung, and co-designers of the thermometer’s folded-paper casing, HUANG Weiwei and Jason LEE. This infrared thermometer is made with easily accessible everyday materials and microbit modules that elementary and junior high school students are already using in their classes. Hopefully this DIY infrared thermometer could provide a quick solution for the thermometer shortage at the moment.  
+This DIY Micro:bit Infrared Thermometer Workshop will be jointly taught by engineer Andrew LIN, new media artist TSAI Chi-Hung, and co-designers of the thermometer’s folded-paper casing, HUANG Weiwei and Jason LEE. This infrared thermometer is made with easily accessible everyday materials and microbit modules that elementary and junior high school students are already using in their classes. Hopefully this DIY infrared thermometer could provide a quick solution for the thermometer shortage at the moment.
+
 
 ## About the Repository
 
@@ -94,27 +114,43 @@ GitHub: https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit
 ## About the Lecturers
 
 **Andrew LIN**
+
 Network communication software engineer, Andrew Lin, has been a “weekend maker” since he came into contact with open-source hardware in 2014 and new media art in 2015.  
 
 **TSAI Chi-Hung**
+
 Coming from a background in information, TSAI Chi-Hung works with new media art and focuses on merging analog and digital elements in a diverse range of ways. In recent years, he continues to experiment and collaborate with people from different disciplines and specializes in integrating different technologies to explore different media’s potential. 
 
 ## Creative Team
 
 Presenter: Taiwan Contemporary Culture Lab (C-LAB) – Technology Media Experimental Platform
+
 Concept Director: Escher TSAI
+
 Biology Lecturer: Theresa Tsun-Hui TSAO
+
 Electrical Engineering Lecturer: Andrew LIN, TSAI Chi-Hung
+
 New Media Art Lecturer: HSIEH Yu-Cheng
+
 Program Designer: Andrew LIN
+
 Hardware Designer: Andrew LIN, TSAI Chi-Hung
+
 Style Designr: HUANG Weiwei, Jason LEE
+
 Executive Producer: CHEN Ping-Yi, Monique CHIANG, HSIEH Che-Min
+
 Marketing & Promotion: LIU Yuching, Sean HUANG, Jimmy HUNG
+
 Visual Designer: CHIU Hsi-Ming
+
 Manual Designer: Awai Tswei
+
 Photographer: Vincent SANG, HUANG Po-Chao
+
 Live-Stream: Oris CHEN, Ed 
+
 Licensing Consultant: CHUANG Tyng-Ruey
 
 For further information please contact:
