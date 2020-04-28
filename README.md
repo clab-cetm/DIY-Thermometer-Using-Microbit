@@ -37,18 +37,22 @@ Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作
 **林彥璋 Andrew Lin**
 
 網通廠軟體工程師。於2014年接觸開源硬體、2015年認識新媒體藝術後，一直當假日創客至今。  
+　
 
 **曹存慧 Theresa Tsun-Hui TSAO**
 
 創作團體遠房親戚實驗室成員，群島社群成員，生物工程師。自澳洲昆士蘭理工大學熱帶作物研究群組（現納入未來環境研究所）博士畢業後，於2009年至2018年間，先後在中研院農生中心，台大資工所與生化所、臺大醫院精神醫學部與基因醫學部等處，從事基因工程、分子生物學、次世代定序與轉錄體學的科學研究。近年藝術作品「憂生學」、「有我在™」、「血電廠」、「療刺」、「愛@窒息」中，使用生物科技、（類）醫療行為、活體材料等，討論科學局限以及感知的可曲變性。  
+　
 
 **蔡奇宏 TSAI Chi-Hung**
 
 從資訊背景踏入新媒體藝術，創作主要致力於將類比與數位以多種方式進行混合，近年來與不同領域的伙伴持續玩耍，擅長整合各種技術形式來探索不同媒材之間的可能性。  
+　
 
 **謝佑承 Yu-Cheng HSIEH**
 
 1992年出生於台灣，目前生活與工作於台北。創作關注媒體時代中影像、機器和實體空間之間的認知經驗，藉由製造臨場的觀察誤區，探索人與世界的觀看意識與存在關係。作品曾獲第17屆台新藝術獎第四季季提名、2018「當代藝術賞」首獎、「台南新藝獎」、2016「全國美術展」新媒體藝術類銀獎、「世安美學獎」造型藝術類、2016-2017二度入選歐洲藝術學院聯盟NEUNOW藝術季、展會與私人收藏。戶外製作項目見於2019-2020「月津港燈節」、2018「關渡光藝術節」與2017年「白晝之夜」等。
+　
 
 
 ## 團隊名單
@@ -125,4 +129,6 @@ Coming from a background in information, TSAI Chi-Hung works with new media art 
 * For further information please contact:
 	* HSIEH Che-Min, chemin@clab.org.tw 
 	* Sean HUANG, yiseanh@clab.org.tw 
-* Taiwan Contemporary Culture Lab (C-LAB) [www.clab.org.tw](https://clab.org.tw/)
+
+
+Taiwan Contemporary Culture Lab (C-LAB) [www.clab.org.tw](https://clab.org.tw/)
