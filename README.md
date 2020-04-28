@@ -1,6 +1,6 @@
 Language: [中文](#防疫時尚救國也要有型紫外燈消毒口罩盒工作坊)、[English](#this-diy-microbit-infrared-thermometer-workshop)
 
-# 防疫時尚，救國也要有型！紫外燈消毒口罩盒工作坊
+# 防疫時尚，救國也要有型！自製 Micro:bit 額溫槍工作坊
 
 ![](images/visual.jpg)
 
