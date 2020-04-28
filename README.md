@@ -74,6 +74,8 @@ Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#this-diy-mi
 * 直播執行：陳韋均、詹佳儒
 * 授權顧問：莊庭瑞
 * 平面設計：崔壯維
+
+
 * 詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw
 * 公關媒體聯繫請洽 行銷推廣組 黃怡翔 yiseanh@clab.org.tw
 
