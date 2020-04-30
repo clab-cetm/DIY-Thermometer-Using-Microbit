@@ -6,8 +6,7 @@ Language: [中文](#檔案說明)、[English](#file-item-description)
 
 ## 額溫槍最終版本
 
-* microbit-mlx90614-nocal_v2_en.hex -- (English Version)
-* microbit-mlx90614-nocal_v2.hex -- (中文版本)
+* microbit-mlx90614-nocal_v2.hex
 
 此次額溫槍工作坊的最終軟體程式版本。此版本會在量測後持續顯示溫度資訊，直到使用者按下右邊的 B 鍵後才會離開顯示模式，適用於感測器與溫度顯示不在同一側的裝置設計（因為你可能要翻過來看溫度）。
 
@@ -37,8 +36,7 @@ Language: [中文](#檔案說明)、[English](#file-item-description)
 
 ## Forehead thermometer final version
 
-* microbit-mlx90614-nocal_v2_en.hex -- (English Version)
-* microbit-mlx90614-nocal_v2.hex -- (Chinese Version)
+* microbit-mlx90614-nocal_v2.hex
 
 The final version is what we used in the workshop. This version will continue to display the temperature information after measurement, and it will not leave the display mode until the user presses the B button on the right. The behavior is designed for the device which sensor and display are not on the same side (because the user may have to turn over to see temperature information).
 
