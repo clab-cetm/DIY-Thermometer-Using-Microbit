@@ -101,6 +101,11 @@ C-LAB upholds the spirit of open culture and free sharing, and all the informati
 
 GitHub: https://github.com/clab-cetm/DIY-Thermometer-Using-Microbit
 
+* case-design -- Different design ideas for the case are saved here, with each file consisting of a design idea. 
+* docs -- Videos from the workshop and the assembly instruction manual 
+* video -- Videos related to the event 
+* visual-design -- Visual designs 
+
 
 ## About the Lecturers
 

@@ -1,3 +1,5 @@
+Language: [中文](#microbit-軟體)、[English](#the-microbit-software)
+
 
 # Micro:bit 軟體
 
@@ -31,6 +33,37 @@ software 目錄內有幾個 .hex 檔。它就是 micro:bit 的軟體，你可以
 ## 參考資料
 
 想快速認識 micro:bit 嗎？請參考《[十分鐘了解 Micro:bit](docs/10-minute-microbit-guide.md)》的工作坊手冊。
+
+
+# The Micro:bit Software  
+
+Instructions are provided on how to update the required programs for the workshop onto the micro:bit board. All the programs were developed using [Microsoft MakeCode for micro:bit](https://makecode.microbit.org/) using the .hex file extension.
+
+
+## About the Program Logic
+ 
+Place the sensor at 1~2 centimeters away from your forehead and click the A button on the left side of the micro:bit to show the detected temperature. The B button on the right side is used for temperature calibration. Calibration is not needed when it is set to “0”.
+
+
+## About the Files 
+
+There are several .hex files inside the software index. These are micro:bit programs, and you could use a USB cable to transfer these .hex files to your micro:bit to update the programs. The programs are interchangeable at any time. You could choose the program you wish to use according to your needs. For further information please refer to [README.md in the software index](software/). 
+ 
+
+## How to Update Programs 
+
+With micro:bit, to “update” a program is quite simple and is similar to copying files onto a USB flash drive.
+  
+Start by connecting a micro USB to your micro:bit and a computer. You will find that once the micro:bit is connected to a computer, it is recognized by the computer as a USB flash drive. On Windows, if you check on File Explorer, you will see a MICROBIT drive has been added to the system. 
+
+Next, select a .hex file and copy it to the MICROBIT drive, and micro:bit will automatically accept the program and update it. It will then restart and begin running the program.
+
+![](images/program-win.gif)
+
+
+## References 
+
+Want a crash course on micro:bit? Check out the workshop manual: [“10 Minute Micro:bit Guide”]((docs/10-minute-microbit-guide.md). 
 
 
 ~ END ~

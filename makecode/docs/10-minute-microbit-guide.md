@@ -1,8 +1,7 @@
-# 10 Minute microbit Guide
+Language: [中文](#十分鐘了解-microbit)、[English](#10-minute-microbit-guide)
 
-*ver 1.0*
 
----
+# 十分鐘了解 Micro:bit
 
 [Micro:bit](https://microbit.org) 是由 BBC 設計給英國學童學習編程和電子創作的微控制器。
 
@@ -114,5 +113,120 @@ ex: [額溫槍模擬器v2](https://makecode.microbit.org/_JxsbYaXXLLJv)
 ### 如何取得程式碼？
 
 事實上，下載到 microbit 的 .hex 檔案就包含了程式碼的資訊。在 MakeCode 中使用`匯入`的功能即可。
+
+
+# 10 Minute microbit Guide
+
+[Micro:bit](https://microbit.org) is a microcontroller designed by the BBC for use in computer programming education and creative electronic projects for children in the UK.
+
+Outline 
+
+* What you will need 
+* Micro:bit development process 
+* What tools are needed 
+	* About MakeCode 
+* How to transfer and run a finished program on micro:bit 
+* About power supply 
+* How to share your work 
+
+
+## What You Will Need 
+
+You only need 3 things when working with micro:bit:  
+
+1. A micro:bit board 
+2. A Micro USB cable 
+3. A computer that is connected to the internet 
+
+![](../images/mb-01.jpg)
+
+![](../images/usb-02.jpg)
+
+![](../images/laptop.jpg)
+
+
+## Micro:bit Development Process  
+
+Think of micro:bit as a mini computer that you can fit in your pocket. In order to work with this computer, you will need to write a program to tell it what to do. The program that you will write is typically referred to as software. 
+
+These are the steps: 
+
+1. Use a program editor deigned for micro:bit to write a software program on your computer. 
+2. Connect your computer and the micro:bit board using a Micro USB cable. 
+3. Download the finished program to the micro:bit board using a Micro USB cable. 
+4. Micro:bit will begin running according to the program you’ve written (if there are no issues with your program). 
+
+
+
+## Selecting a Program Editor for Micro:bit 
+
+Similar to how Microsoft Word is used for word processing, and PowerPoint is used for creating a presentation, a program editor allows you to write programs. 
+
+There are typically two editors that are used with micro:bit. 
+
+* [MakeCode](https://makecode.microbit.org/)
+	* A programming tool that fits code elements together like puzzle pieces. 
+	* Recommended for beginners. 
+* [Python for micro:bit](https://python.microbit.org/v/2.0)
+	* Uses the Python programming language.
+	* Uses a scripting programming approach. 
+
+We've chosen to use MakeCode for this project. 
+
+
+## MakeCode Setup 
+
+* Simulator -- Where you can see immediate feedback without using a board. 
+* Block Editor -- Use the blocks to construct your program.
+* Save the Files -- Save your files using the .hex file extension (containing code information).  
+* Education Section -- Built-in educational resources. 
+
+![](../images/makecode-01.png)
+
+
+## Download Your Program onto Micro:bit 
+
+1. Be sure to connect your micro:bit to a computer using a Micro USB cable. 
+2. When you plug the micro:bit into a computer’s USB socket, it will show up automatically like any other USB storage or memory stick as a drive called “MICROBIT”.
+3. Click “download” on MakeCode; a .hex file will be downloaded. 
+4. Drag the .hex file to the drive (or copy and paste) 
+	* During the transferring process, an orange LED light on the back of the circuit board will flicker. When the file transferring is done, the light will stop flickering. 
+5. That’s it! Now observe to see if the micro:bit is working properly. 
+
+
+## About IO Expansion Board
+
+Take a closer look of the edge connector pins on the micro:bit and you will see that P0, P1, P2, 3V, and GND have larger pins that make it easier to for an alligator clip to be attached to them. The rest have pins that are too narrow and not that easy to work with. 
+
+![](../images/alligator-clips.jpg)
+
+Therefore, a device called the IO expansion board is typically used when we work on a project. Just plug the micro:bit into the expansion board and this board will lead out all IO ports of micro:bit, making it easier to connect and work with. 
+
+![](../images/expansion-01.jpg)
+
+
+
+## About Power Supply
+
+You probably wouldn’t want to have to always connect to a USB cable and computer whenever you use your micro:bit. To solve this issue, you can use an external battery pack with two AAA batteries. 
+
+![](../images/battery.jpg)
+
+The slot is on the upper-right corner on the back.
+
+![](../images/mb-02.jpg)
+
+
+## How to Share Your Work
+
+Simply use the “Share Project” function on MakeCode to share your work. 
+
+ex: [Infrared Thermometer Simulator v2](https://makecode.microbit.org/_JxsbYaXXLLJv)
+
+
+## How to Obtain Program Codes? 
+
+The .hex file downloaded onto micro:bit already contains program code information, so just use the import function on MakeCode to obtain it. 
+
 
 ~ END ~
