@@ -193,6 +193,8 @@ We've chosen to use MakeCode for this project.
 	* During the transferring process, an orange LED light on the back of the circuit board will flicker. When the file transferring is done, the light will stop flickering. 
 5. That’s it! Now observe to see if the micro:bit is working properly. 
 
+![](../images/program.gif)
+
 
 ## About IO Expansion Board
 
