@@ -63,7 +63,7 @@ Next, select a .hex file and copy it to the MICROBIT drive, and micro:bit will a
 
 ## References 
 
-Want a crash course on micro:bit? Check out the workshop manual: [“10 Minute Micro:bit Guide”]((docs/10-minute-microbit-guide.md). 
+Want a crash course on micro:bit? Check out the workshop manual: [“10 Minute Micro:bit Guide”](docs/10-minute-microbit-guide.md). 
 
 
 ~ END ~
